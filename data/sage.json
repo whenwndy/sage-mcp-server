@@ -17,8 +17,8 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 500000,
-      "outstanding_balance_usd": 87432.50,
-      "ytd_revenue_usd": 1245600.00,
+      "outstanding_balance_usd": 87432.5,
+      "ytd_revenue_usd": 1245600.0,
       "account_manager": "Lisa Hartwell",
       "created_date": "2018-03-12",
       "currency": "USD"
@@ -40,8 +40,8 @@
       },
       "payment_terms": "Net45",
       "credit_limit_usd": 350000,
-      "outstanding_balance_usd": 54210.00,
-      "ytd_revenue_usd": 783400.00,
+      "outstanding_balance_usd": 54210.0,
+      "ytd_revenue_usd": 783400.0,
       "account_manager": "Lisa Hartwell",
       "created_date": "2019-07-22",
       "currency": "USD"
@@ -63,8 +63,8 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 200000,
-      "outstanding_balance_usd": 22875.00,
-      "ytd_revenue_usd": 412000.00,
+      "outstanding_balance_usd": 22875.0,
+      "ytd_revenue_usd": 412000.0,
       "account_manager": "Tom Reyes",
       "created_date": "2020-01-08",
       "currency": "USD"
@@ -86,8 +86,8 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 275000,
-      "outstanding_balance_usd": 41320.00,
-      "ytd_revenue_usd": 598700.00,
+      "outstanding_balance_usd": 41320.0,
+      "ytd_revenue_usd": 598700.0,
       "account_manager": "Tom Reyes",
       "created_date": "2017-09-14",
       "currency": "USD"
@@ -109,8 +109,8 @@
       },
       "payment_terms": "Net45",
       "credit_limit_usd": 400000,
-      "outstanding_balance_usd": 71680.00,
-      "ytd_revenue_usd": 927300.00,
+      "outstanding_balance_usd": 71680.0,
+      "ytd_revenue_usd": 927300.0,
       "account_manager": "Lisa Hartwell",
       "created_date": "2016-11-30",
       "currency": "USD"
@@ -132,8 +132,8 @@
       },
       "payment_terms": "Net60",
       "credit_limit_usd": 300000,
-      "outstanding_balance_usd": 38450.00,
-      "ytd_revenue_usd": 541200.00,
+      "outstanding_balance_usd": 38450.0,
+      "ytd_revenue_usd": 541200.0,
       "account_manager": "Tom Reyes",
       "created_date": "2019-04-17",
       "currency": "CAD"
@@ -155,8 +155,8 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 180000,
-      "outstanding_balance_usd": 15900.00,
-      "ytd_revenue_usd": 334500.00,
+      "outstanding_balance_usd": 15900.0,
+      "ytd_revenue_usd": 334500.0,
       "account_manager": "Lisa Hartwell",
       "created_date": "2021-02-09",
       "currency": "USD"
@@ -178,8 +178,8 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 120000,
-      "outstanding_balance_usd": 19640.00,
-      "ytd_revenue_usd": 218900.00,
+      "outstanding_balance_usd": 19640.0,
+      "ytd_revenue_usd": 218900.0,
       "account_manager": "Tom Reyes",
       "created_date": "2020-08-03",
       "currency": "CAD"
@@ -201,8 +201,8 @@
       },
       "payment_terms": "Net45",
       "credit_limit_usd": 250000,
-      "outstanding_balance_usd": 48100.00,
-      "ytd_revenue_usd": 672400.00,
+      "outstanding_balance_usd": 48100.0,
+      "ytd_revenue_usd": 672400.0,
       "account_manager": "Lisa Hartwell",
       "created_date": "2018-06-25",
       "currency": "USD"
@@ -224,14 +224,13 @@
       },
       "payment_terms": "Net30",
       "credit_limit_usd": 50000,
-      "outstanding_balance_usd": 0.00,
-      "ytd_revenue_usd": 47200.00,
+      "outstanding_balance_usd": 0.0,
+      "ytd_revenue_usd": 47200.0,
       "account_manager": "Tom Reyes",
       "created_date": "2015-05-18",
       "currency": "USD"
     }
   ],
-
   "products": [
     {
       "id": "P-001",
@@ -241,7 +240,7 @@
       "cas_number": "95-33-0",
       "unit_of_measure": "kg",
       "unit_cost_usd": 4.85,
-      "unit_price_usd": 8.20,
+      "unit_price_usd": 8.2,
       "status": "active",
       "description": "Primary sulfenamide accelerator for natural and synthetic rubber. Provides delayed action and excellent scorch safety in general-purpose compounds.",
       "hazmat": false,
@@ -254,7 +253,7 @@
       "category": "accelerator",
       "cas_number": "120-78-5",
       "unit_of_measure": "kg",
-      "unit_cost_usd": 5.10,
+      "unit_cost_usd": 5.1,
       "unit_price_usd": 8.75,
       "status": "active",
       "description": "Thiazole-type secondary accelerator. Widely used in tire treads, mechanical goods, and extruded profiles. Good processing safety.",
@@ -268,8 +267,8 @@
       "category": "accelerator",
       "cas_number": "137-26-8",
       "unit_of_measure": "kg",
-      "unit_cost_usd": 6.20,
-      "unit_price_usd": 10.50,
+      "unit_cost_usd": 6.2,
+      "unit_price_usd": 10.5,
       "status": "active",
       "description": "Thiuram-class ultra-accelerator and sulfur donor. Used in low-sulfur or sulfurless vulcanization systems. Effective in latex and dry rubber.",
       "hazmat": true,
@@ -282,8 +281,8 @@
       "category": "antioxidant",
       "cas_number": "793-24-8",
       "unit_of_measure": "kg",
-      "unit_cost_usd": 7.40,
-      "unit_price_usd": 12.60,
+      "unit_cost_usd": 7.4,
+      "unit_price_usd": 12.6,
       "status": "active",
       "description": "Para-phenylenediamine antidegradant. Superior protection against ozone, flex cracking, and heat aging in tire sidewalls and mechanical goods.",
       "hazmat": false,
@@ -297,7 +296,7 @@
       "cas_number": "26780-96-1",
       "unit_of_measure": "kg",
       "unit_cost_usd": 3.65,
-      "unit_price_usd": 6.20,
+      "unit_price_usd": 6.2,
       "status": "active",
       "description": "Amine-type antioxidant offering long-term thermal and oxidative aging protection. Used in tires, conveyor belts, and hose applications.",
       "hazmat": false,
@@ -310,8 +309,8 @@
       "category": "plasticizer",
       "cas_number": "64742-52-5",
       "unit_of_measure": "drum",
-      "unit_cost_usd": 185.00,
-      "unit_price_usd": 295.00,
+      "unit_cost_usd": 185.0,
+      "unit_price_usd": 295.0,
       "status": "active",
       "description": "200L drum. Medium viscosity naphthenic oil for rubber processing. Improves filler dispersion, reduces mixing viscosity, and enhances low-temperature flexibility.",
       "hazmat": false,
@@ -324,8 +323,8 @@
       "category": "processing_aid",
       "cas_number": "1314-13-2",
       "unit_of_measure": "bag",
-      "unit_cost_usd": 52.00,
-      "unit_price_usd": 88.00,
+      "unit_cost_usd": 52.0,
+      "unit_price_usd": 88.0,
       "status": "active",
       "description": "25 kg bag. High-purity zinc oxide activator for rubber vulcanization. French process grade with >99.5% ZnO content and low lead content.",
       "hazmat": false,
@@ -338,8 +337,8 @@
       "category": "processing_aid",
       "cas_number": "57-11-4",
       "unit_of_measure": "bag",
-      "unit_cost_usd": 28.50,
-      "unit_price_usd": 48.00,
+      "unit_cost_usd": 28.5,
+      "unit_price_usd": 48.0,
       "status": "active",
       "description": "25 kg bag. Fatty acid activator used with zinc oxide in vulcanization. Also functions as internal lubricant and processing aid.",
       "hazmat": false,
@@ -352,8 +351,8 @@
       "category": "filler",
       "cas_number": "1333-86-4",
       "unit_of_measure": "bag",
-      "unit_cost_usd": 38.00,
-      "unit_price_usd": 62.00,
+      "unit_cost_usd": 38.0,
+      "unit_price_usd": 62.0,
       "status": "active",
       "description": "25 kg bag. High Abrasion Furnace carbon black. Primary reinforcing filler for tire treads, belts, and mechanical rubber goods.",
       "hazmat": false,
@@ -366,8 +365,8 @@
       "category": "processing_aid",
       "cas_number": "17796-82-6",
       "unit_of_measure": "kg",
-      "unit_cost_usd": 14.20,
-      "unit_price_usd": 24.50,
+      "unit_cost_usd": 14.2,
+      "unit_price_usd": 24.5,
       "status": "active",
       "description": "Prevulcanization inhibitor and scorch retarder for natural rubber. Extends processing safety without affecting cure rate or physical properties.",
       "hazmat": false,
@@ -380,8 +379,8 @@
       "category": "specialty_compound",
       "cas_number": "80-51-3",
       "unit_of_measure": "kg",
-      "unit_cost_usd": 18.90,
-      "unit_price_usd": 32.00,
+      "unit_cost_usd": 18.9,
+      "unit_price_usd": 32.0,
       "status": "active",
       "description": "Endothermic/exothermic blowing agent for closed-cell rubber sponge and foam applications. Decomposes at 150-160°C releasing nitrogen gas.",
       "hazmat": true,
@@ -395,14 +394,13 @@
       "cas_number": "25038-36-2",
       "unit_of_measure": "kg",
       "unit_cost_usd": 2.95,
-      "unit_price_usd": 5.40,
+      "unit_price_usd": 5.4,
       "status": "active",
       "description": "Ethylene-propylene-diene terpolymer. High ethylene content for outstanding weather resistance, ozone resistance, and heat aging in automotive seals and roofing membranes.",
       "hazmat": false,
       "min_order_qty": 500
     }
   ],
-
   "inventory": [
     {
       "id": "INV-001",
@@ -765,7 +763,6 @@
       "last_updated": "2026-08-21"
     }
   ],
-
   "sales_orders": [
     {
       "id": "SO-1001",
@@ -778,14 +775,35 @@
       "requested_delivery_date": "2026-07-25",
       "po_number": "BS-PO-2026-4417",
       "line_items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 500, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 4100.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 3780.00},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 800, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 49600.00}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 4100.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 3780.0
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 800,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 49600.0
+        }
       ],
-      "subtotal_usd": 57480.00,
-      "tax_usd": 0.00,
-      "freight_usd": 1240.00,
-      "total_usd": 58720.00,
+      "subtotal_usd": 57480.0,
+      "tax_usd": 0.0,
+      "freight_usd": 1240.0,
+      "total_usd": 58720.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Standard quarterly order. Delivered to Nashville DC on schedule."
@@ -801,15 +819,43 @@
       "requested_delivery_date": "2026-08-12",
       "po_number": "CSA-2026-0882",
       "line_items": [
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 8.75, "amount_usd": 1750.00},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "quantity": 80, "unit_of_measure": "bag", "unit_price_usd": 88.00, "amount_usd": 7040.00},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "quantity": 60, "unit_of_measure": "bag", "unit_price_usd": 48.00, "amount_usd": 2880.00},
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 2000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 10800.00}
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.75,
+          "amount_usd": 1750.0
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "quantity": 80,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 88.0,
+          "amount_usd": 7040.0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "quantity": 60,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 48.0,
+          "amount_usd": 2880.0
+        },
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 2000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 10800.0
+        }
       ],
-      "subtotal_usd": 22470.00,
-      "tax_usd": 0.00,
-      "freight_usd": 680.00,
-      "total_usd": 23150.00,
+      "subtotal_usd": 22470.0,
+      "tax_usd": 0.0,
+      "freight_usd": 680.0,
+      "total_usd": 23150.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Seal compound ingredients. In transit via Estes Express."
@@ -825,14 +871,35 @@
       "requested_delivery_date": "2026-08-22",
       "po_number": "CTI-CA-2026-1204",
       "line_items": [
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 5040.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 1860.00},
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 250, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 2050.00}
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 5040.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 1860.0
+        },
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 250,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 2050.0
+        }
       ],
-      "subtotal_usd": 8950.00,
-      "tax_usd": 0.00,
-      "freight_usd": 425.00,
-      "total_usd": 9375.00,
+      "subtotal_usd": 8950.0,
+      "tax_usd": 0.0,
+      "freight_usd": 425.0,
+      "total_usd": 9375.0,
       "shipping_method": "ground",
       "account_manager": "Tom Reyes",
       "notes": "Export to Canada — NAFTA/CUSMA certificate of origin required. Ship from Chicago WH."
@@ -848,14 +915,35 @@
       "requested_delivery_date": "2026-08-20",
       "po_number": "TSS-2026-3311",
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "quantity": 100, "unit_of_measure": "kg", "unit_price_usd": 10.50, "amount_usd": 1050.00},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "quantity": 50, "unit_of_measure": "kg", "unit_price_usd": 24.50, "amount_usd": 1225.00},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "quantity": 8, "unit_of_measure": "drum", "unit_price_usd": 295.00, "amount_usd": 2360.00}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "quantity": 100,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 10.5,
+          "amount_usd": 1050.0
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "quantity": 50,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 24.5,
+          "amount_usd": 1225.0
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "quantity": 8,
+          "unit_of_measure": "drum",
+          "unit_price_usd": 295.0,
+          "amount_usd": 2360.0
+        }
       ],
-      "subtotal_usd": 4635.00,
-      "tax_usd": 0.00,
-      "freight_usd": 320.00,
-      "total_usd": 4955.00,
+      "subtotal_usd": 4635.0,
+      "tax_usd": 0.0,
+      "freight_usd": 320.0,
+      "total_usd": 4955.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Tom Reyes",
       "notes": "HAZMAT shipment — TMTD requires hazmat documentation. Pick from Chicago WH."
@@ -871,13 +959,27 @@
       "requested_delivery_date": "2026-08-08",
       "po_number": "ZC-2026-0754",
       "line_items": [
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 32.00, "amount_usd": 6400.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 500, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 3100.00}
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 32.0,
+          "amount_usd": 6400.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 3100.0
+        }
       ],
-      "subtotal_usd": 9500.00,
-      "tax_usd": 0.00,
-      "freight_usd": 390.00,
-      "total_usd": 9890.00,
+      "subtotal_usd": 9500.0,
+      "tax_usd": 0.0,
+      "freight_usd": 390.0,
+      "total_usd": 9890.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Tom Reyes",
       "notes": "HAZMAT — OBSH blowing agent requires UN3242 labeling. Shipped from Houston WH."
@@ -893,15 +995,43 @@
       "requested_delivery_date": "2026-09-05",
       "po_number": "FPM-2026-2219",
       "line_items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 600, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 4920.00},
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 8.75, "amount_usd": 3500.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 500, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 6300.00},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "quantity": 100, "unit_of_measure": "bag", "unit_price_usd": 88.00, "amount_usd": 8800.00}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 600,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 4920.0
+        },
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.75,
+          "amount_usd": 3500.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 6300.0
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "quantity": 100,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 88.0,
+          "amount_usd": 8800.0
+        }
       ],
-      "subtotal_usd": 23520.00,
-      "tax_usd": 0.00,
-      "freight_usd": 780.00,
-      "total_usd": 24300.00,
+      "subtotal_usd": 23520.0,
+      "tax_usd": 0.0,
+      "freight_usd": 780.0,
+      "total_usd": 24300.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Awaiting credit approval. Hold until approved."
@@ -917,13 +1047,27 @@
       "requested_delivery_date": "2026-08-26",
       "po_number": "KP-TX-2026-0491",
       "line_items": [
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 3000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 16200.00},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "quantity": 12, "unit_of_measure": "drum", "unit_price_usd": 295.00, "amount_usd": 3540.00}
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 3000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 16200.0
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "quantity": 12,
+          "unit_of_measure": "drum",
+          "unit_price_usd": 295.0,
+          "amount_usd": 3540.0
+        }
       ],
-      "subtotal_usd": 19740.00,
-      "tax_usd": 0.00,
-      "freight_usd": 520.00,
-      "total_usd": 20260.00,
+      "subtotal_usd": 19740.0,
+      "tax_usd": 0.0,
+      "freight_usd": 520.0,
+      "total_usd": 20260.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Ship from Houston WH. Kraton dock hours 07:00–15:00 Mon–Fri."
@@ -939,13 +1083,27 @@
       "requested_delivery_date": "2026-08-15",
       "po_number": "AVT-2026-1132",
       "line_items": [
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 1860.00},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "quantity": 40, "unit_of_measure": "bag", "unit_price_usd": 48.00, "amount_usd": 1920.00}
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 1860.0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "quantity": 40,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 48.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 3780.00,
-      "tax_usd": 0.00,
-      "freight_usd": 215.00,
-      "total_usd": 3995.00,
+      "subtotal_usd": 3780.0,
+      "tax_usd": 0.0,
+      "freight_usd": 215.0,
+      "total_usd": 3995.0,
       "shipping_method": "ground",
       "account_manager": "Lisa Hartwell",
       "notes": ""
@@ -961,14 +1119,35 @@
       "requested_delivery_date": "2026-08-28",
       "po_number": "RPL-CA-2026-0619",
       "line_items": [
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 150, "unit_of_measure": "kg", "unit_price_usd": 8.75, "amount_usd": 1312.50},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "quantity": 25, "unit_of_measure": "kg", "unit_price_usd": 24.50, "amount_usd": 612.50},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 100, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 6200.00}
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 150,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.75,
+          "amount_usd": 1312.5
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "quantity": 25,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 24.5,
+          "amount_usd": 612.5
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 100,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 6200.0
+        }
       ],
-      "subtotal_usd": 8125.00,
-      "tax_usd": 0.00,
-      "freight_usd": 380.00,
-      "total_usd": 8505.00,
+      "subtotal_usd": 8125.0,
+      "tax_usd": 0.0,
+      "freight_usd": 380.0,
+      "total_usd": 8505.0,
       "shipping_method": "ground",
       "account_manager": "Tom Reyes",
       "notes": "Export to Canada. Customs broker: Livingston International. Ship from Chicago WH."
@@ -984,14 +1163,35 @@
       "requested_delivery_date": "2026-09-10",
       "po_number": "BS-PO-2026-4502",
       "line_items": [
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 1200, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 74400.00},
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 3280.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 2520.00}
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 1200,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 74400.0
+        },
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 3280.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 2520.0
+        }
       ],
-      "subtotal_usd": 80200.00,
-      "tax_usd": 0.00,
-      "freight_usd": 1680.00,
-      "total_usd": 81880.00,
+      "subtotal_usd": 80200.0,
+      "tax_usd": 0.0,
+      "freight_usd": 1680.0,
+      "total_usd": 81880.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Large Q3 restock order. Confirm inventory availability before acknowledging."
@@ -1007,12 +1207,19 @@
       "requested_delivery_date": "2026-08-18",
       "po_number": "ZC-2026-0801",
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 10.50, "amount_usd": 2100.00}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 10.5,
+          "amount_usd": 2100.0
+        }
       ],
-      "subtotal_usd": 2100.00,
-      "tax_usd": 0.00,
-      "freight_usd": 150.00,
-      "total_usd": 2250.00,
+      "subtotal_usd": 2100.0,
+      "tax_usd": 0.0,
+      "freight_usd": 150.0,
+      "total_usd": 2250.0,
       "shipping_method": "ground",
       "account_manager": "Tom Reyes",
       "notes": "Cancelled by customer — reformulation of compound eliminated TMTD requirement."
@@ -1028,19 +1235,32 @@
       "requested_delivery_date": "2026-07-21",
       "po_number": "FPM-2026-2105",
       "line_items": [
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 5000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 27000.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 2480.00}
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 5000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 27000.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 2480.0
+        }
       ],
-      "subtotal_usd": 29480.00,
-      "tax_usd": 0.00,
-      "freight_usd": 890.00,
-      "total_usd": 30370.00,
+      "subtotal_usd": 29480.0,
+      "tax_usd": 0.0,
+      "freight_usd": 890.0,
+      "total_usd": 30370.0,
       "shipping_method": "ltl_freight",
       "account_manager": "Lisa Hartwell",
       "notes": "Shipped from Houston WH per customer preference."
     }
   ],
-
   "invoices": [
     {
       "id": "INV-2001",
@@ -1053,15 +1273,36 @@
       "due_date": "2026-08-21",
       "paid_date": "2026-08-18",
       "line_items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 500, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 4100.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 3780.00},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 800, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 49600.00}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 4100.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 3780.0
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 800,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 49600.0
+        }
       ],
-      "subtotal_usd": 57480.00,
-      "tax_usd": 0.00,
-      "total_usd": 58720.00,
-      "amount_paid_usd": 58720.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 57480.0,
+      "tax_usd": 0.0,
+      "total_usd": 58720.0,
+      "amount_paid_usd": 58720.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "notes": "Paid via ACH on 2026-08-18. Ref: BSACH-08182026."
     },
@@ -1076,16 +1317,44 @@
       "due_date": "2026-09-22",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 8.75, "amount_usd": 1750.00},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "quantity": 80, "unit_of_measure": "bag", "unit_price_usd": 88.00, "amount_usd": 7040.00},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "quantity": 60, "unit_of_measure": "bag", "unit_price_usd": 48.00, "amount_usd": 2880.00},
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 2000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 10800.00}
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.75,
+          "amount_usd": 1750.0
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "quantity": 80,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 88.0,
+          "amount_usd": 7040.0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "quantity": 60,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 48.0,
+          "amount_usd": 2880.0
+        },
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 2000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 10800.0
+        }
       ],
-      "subtotal_usd": 22470.00,
-      "tax_usd": 0.00,
-      "total_usd": 23150.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 23150.00,
+      "subtotal_usd": 22470.0,
+      "tax_usd": 0.0,
+      "total_usd": 23150.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 23150.0,
       "payment_terms": "Net45",
       "notes": "Due upon Net45 terms from ship date."
     },
@@ -1100,15 +1369,36 @@
       "due_date": "2026-09-18",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "quantity": 100, "unit_of_measure": "kg", "unit_price_usd": 10.50, "amount_usd": 1050.00},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "quantity": 50, "unit_of_measure": "kg", "unit_price_usd": 24.50, "amount_usd": 1225.00},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "quantity": 8, "unit_of_measure": "drum", "unit_price_usd": 295.00, "amount_usd": 2360.00}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "quantity": 100,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 10.5,
+          "amount_usd": 1050.0
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "quantity": 50,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 24.5,
+          "amount_usd": 1225.0
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "quantity": 8,
+          "unit_of_measure": "drum",
+          "unit_price_usd": 295.0,
+          "amount_usd": 2360.0
+        }
       ],
-      "subtotal_usd": 4635.00,
-      "tax_usd": 0.00,
-      "total_usd": 4955.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 4955.00,
+      "subtotal_usd": 4635.0,
+      "tax_usd": 0.0,
+      "total_usd": 4955.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 4955.0,
       "payment_terms": "Net30",
       "notes": "HAZMAT freight surcharge included."
     },
@@ -1123,14 +1413,28 @@
       "due_date": "2026-09-03",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 32.00, "amount_usd": 6400.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 500, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 3100.00}
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 32.0,
+          "amount_usd": 6400.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 3100.0
+        }
       ],
-      "subtotal_usd": 9500.00,
-      "tax_usd": 0.00,
-      "total_usd": 9890.00,
-      "amount_paid_usd": 5000.00,
-      "amount_due_usd": 4890.00,
+      "subtotal_usd": 9500.0,
+      "tax_usd": 0.0,
+      "total_usd": 9890.0,
+      "amount_paid_usd": 5000.0,
+      "amount_due_usd": 4890.0,
       "payment_terms": "Net30",
       "notes": "Partial payment of $5,000 received 2026-08-20. Balance due per terms."
     },
@@ -1145,14 +1449,28 @@
       "due_date": "2026-08-01",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 5000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 27000.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 2480.00}
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 5000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 27000.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 2480.0
+        }
       ],
-      "subtotal_usd": 29480.00,
-      "tax_usd": 0.00,
-      "total_usd": 30370.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 30370.00,
+      "subtotal_usd": 29480.0,
+      "tax_usd": 0.0,
+      "total_usd": 30370.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 30370.0,
       "payment_terms": "Net45",
       "notes": "OVERDUE — 25 days past due. Collections follow-up initiated 2026-08-12. Contact: Anna Schreiber."
     },
@@ -1167,14 +1485,28 @@
       "due_date": "2026-10-05",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "quantity": 3000, "unit_of_measure": "kg", "unit_price_usd": 5.40, "amount_usd": 16200.00},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "quantity": 12, "unit_of_measure": "drum", "unit_price_usd": 295.00, "amount_usd": 3540.00}
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "quantity": 3000,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 5.4,
+          "amount_usd": 16200.0
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "quantity": 12,
+          "unit_of_measure": "drum",
+          "unit_price_usd": 295.0,
+          "amount_usd": 3540.0
+        }
       ],
-      "subtotal_usd": 19740.00,
-      "tax_usd": 0.00,
-      "total_usd": 20260.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 20260.00,
+      "subtotal_usd": 19740.0,
+      "tax_usd": 0.0,
+      "total_usd": 20260.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 20260.0,
       "payment_terms": "Net45",
       "notes": ""
     },
@@ -1189,14 +1521,28 @@
       "due_date": "2026-09-10",
       "paid_date": "2026-08-21",
       "line_items": [
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 1860.00},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "quantity": 40, "unit_of_measure": "bag", "unit_price_usd": 48.00, "amount_usd": 1920.00}
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 1860.0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "quantity": 40,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 48.0,
+          "amount_usd": 1920.0
+        }
       ],
-      "subtotal_usd": 3780.00,
-      "tax_usd": 0.00,
-      "total_usd": 3995.00,
-      "amount_paid_usd": 3995.00,
-      "amount_due_usd": 0.00,
+      "subtotal_usd": 3780.0,
+      "tax_usd": 0.0,
+      "total_usd": 3995.0,
+      "amount_paid_usd": 3995.0,
+      "amount_due_usd": 0.0,
       "payment_terms": "Net30",
       "notes": "Paid early. Check #8841."
     },
@@ -1211,15 +1557,36 @@
       "due_date": "2026-10-21",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 5040.00},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 300, "unit_of_measure": "kg", "unit_price_usd": 6.20, "amount_usd": 1860.00},
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 250, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 2050.00}
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 5040.0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 300,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 6.2,
+          "amount_usd": 1860.0
+        },
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 250,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 2050.0
+        }
       ],
-      "subtotal_usd": 8950.00,
-      "tax_usd": 0.00,
-      "total_usd": 9375.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 9375.00,
+      "subtotal_usd": 8950.0,
+      "tax_usd": 0.0,
+      "total_usd": 9375.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 9375.0,
       "payment_terms": "Net60",
       "notes": "CAD customer billed in USD per contract terms."
     },
@@ -1234,15 +1601,36 @@
       "due_date": "2026-09-22",
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 150, "unit_of_measure": "kg", "unit_price_usd": 8.75, "amount_usd": 1312.50},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "quantity": 25, "unit_of_measure": "kg", "unit_price_usd": 24.50, "amount_usd": 612.50},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 100, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 6200.00}
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 150,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.75,
+          "amount_usd": 1312.5
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "quantity": 25,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 24.5,
+          "amount_usd": 612.5
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 100,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 6200.0
+        }
       ],
-      "subtotal_usd": 8125.00,
-      "tax_usd": 0.00,
-      "total_usd": 8505.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 8505.00,
+      "subtotal_usd": 8125.0,
+      "tax_usd": 0.0,
+      "total_usd": 8505.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 8505.0,
       "payment_terms": "Net30",
       "notes": "Awaiting customs clearance confirmation before payment expected."
     },
@@ -1257,34 +1645,68 @@
       "due_date": null,
       "paid_date": null,
       "line_items": [
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 1200, "unit_of_measure": "bag", "unit_price_usd": 62.00, "amount_usd": 74400.00},
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 400, "unit_of_measure": "kg", "unit_price_usd": 8.20, "amount_usd": 3280.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 200, "unit_of_measure": "kg", "unit_price_usd": 12.60, "amount_usd": 2520.00}
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 1200,
+          "unit_of_measure": "bag",
+          "unit_price_usd": 62.0,
+          "amount_usd": 74400.0
+        },
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 8.2,
+          "amount_usd": 3280.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_price_usd": 12.6,
+          "amount_usd": 2520.0
+        }
       ],
-      "subtotal_usd": 80200.00,
-      "tax_usd": 0.00,
-      "total_usd": 81880.00,
-      "amount_paid_usd": 0.00,
-      "amount_due_usd": 81880.00,
+      "subtotal_usd": 80200.0,
+      "tax_usd": 0.0,
+      "total_usd": 81880.0,
+      "amount_paid_usd": 0.0,
+      "amount_due_usd": 81880.0,
       "payment_terms": "Net30",
       "notes": "Draft invoice — pending order confirmation and ship date."
     }
   ],
-
   "purchase_orders": [
     {
       "id": "PO-3001",
       "po_number": "PO-3001",
       "vendor_id": "V-001",
-      "vendor_name": "Lanxess Deutschland GmbH",
+      "vendor_name": "ChemTech GmbH Deutschland GmbH",
       "status": "open",
       "order_date": "2026-08-10",
       "expected_date": "2026-09-15",
       "line_items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "quantity": 2000, "unit_of_measure": "kg", "unit_cost_usd": 4.85, "amount_usd": 9700.00},
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "quantity": 1500, "unit_of_measure": "kg", "unit_cost_usd": 5.10, "amount_usd": 7650.00}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "quantity": 2000,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 4.85,
+          "amount_usd": 9700.0
+        },
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "quantity": 1500,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 5.1,
+          "amount_usd": 7650.0
+        }
       ],
-      "total_usd": 17350.00,
+      "total_usd": 17350.0,
       "currency": "EUR",
       "notes": "Sea freight from Leverkusen. Lead time 5-6 weeks. EUR pricing converted at spot rate."
     },
@@ -1292,15 +1714,29 @@
       "id": "PO-3002",
       "po_number": "PO-3002",
       "vendor_id": "V-002",
-      "vendor_name": "Flexsys America L.P.",
+      "vendor_name": "FlexChem America L.P.",
       "status": "partially_received",
       "order_date": "2026-07-25",
       "expected_date": "2026-08-20",
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "quantity": 500, "unit_of_measure": "kg", "unit_cost_usd": 6.20, "amount_usd": 3100.00},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "quantity": 3000, "unit_of_measure": "kg", "unit_cost_usd": 7.40, "amount_usd": 22200.00}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "quantity": 500,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 6.2,
+          "amount_usd": 3100.0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "quantity": 3000,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 7.4,
+          "amount_usd": 22200.0
+        }
       ],
-      "total_usd": 25300.00,
+      "total_usd": 25300.0,
       "currency": "USD",
       "notes": "6PPD received in full 2026-08-15. TMTD 250 kg received, 250 kg backorder expected 2026-08-28."
     },
@@ -1308,15 +1744,29 @@
       "id": "PO-3003",
       "po_number": "PO-3003",
       "vendor_id": "V-003",
-      "vendor_name": "R.T. Vanderbilt Holding Company",
+      "vendor_name": "Sterling Chemical Holding Company",
       "status": "open",
       "order_date": "2026-08-12",
       "expected_date": "2026-08-26",
       "line_items": [
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "quantity": 3000, "unit_of_measure": "kg", "unit_cost_usd": 3.65, "amount_usd": 10950.00},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "quantity": 200, "unit_of_measure": "kg", "unit_cost_usd": 14.20, "amount_usd": 2840.00}
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "quantity": 3000,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 3.65,
+          "amount_usd": 10950.0
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "quantity": 200,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 14.2,
+          "amount_usd": 2840.0
+        }
       ],
-      "total_usd": 13790.00,
+      "total_usd": 13790.0,
       "currency": "USD",
       "notes": "Truck delivery direct to Chicago WH. Confirm dock appointment with WH manager."
     },
@@ -1324,14 +1774,21 @@
       "id": "PO-3004",
       "po_number": "PO-3004",
       "vendor_id": "V-005",
-      "vendor_name": "Cabot Corporation",
+      "vendor_name": "CarbonTech Corp",
       "status": "received",
       "order_date": "2026-07-15",
       "expected_date": "2026-08-05",
       "line_items": [
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "quantity": 4000, "unit_of_measure": "bag", "unit_cost_usd": 38.00, "amount_usd": 152000.00}
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "quantity": 4000,
+          "unit_of_measure": "bag",
+          "unit_cost_usd": 38.0,
+          "amount_usd": 152000.0
+        }
       ],
-      "total_usd": 152000.00,
+      "total_usd": 152000.0,
       "currency": "USD",
       "notes": "Full truckload delivery. Split between Chicago (2400 bags) and Houston (1600 bags) warehouses."
     },
@@ -1339,14 +1796,21 @@
       "id": "PO-3005",
       "po_number": "PO-3005",
       "vendor_id": "V-004",
-      "vendor_name": "ICL Group Ltd.",
+      "vendor_name": "GlobalChem Group Ltd.",
       "status": "open",
       "order_date": "2026-08-18",
       "expected_date": "2026-09-20",
       "line_items": [
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "quantity": 400, "unit_of_measure": "kg", "unit_cost_usd": 18.90, "amount_usd": 7560.00}
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "quantity": 400,
+          "unit_of_measure": "kg",
+          "unit_cost_usd": 18.9,
+          "amount_usd": 7560.0
+        }
       ],
-      "total_usd": 7560.00,
+      "total_usd": 7560.0,
       "currency": "USD",
       "notes": "HAZMAT shipment — UN3242 Class 4.1. Requires hazmat-certified carrier. ICL ships from Be'er Sheva, Israel via Rotterdam."
     },
@@ -1354,119 +1818,152 @@
       "id": "PO-3006",
       "po_number": "PO-3006",
       "vendor_id": "V-006",
-      "vendor_name": "Univar Solutions Inc.",
+      "vendor_name": "ChemDist Solutions Inc.",
       "status": "closed",
       "order_date": "2026-07-01",
       "expected_date": "2026-07-18",
       "line_items": [
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "quantity": 100, "unit_of_measure": "drum", "unit_cost_usd": 185.00, "amount_usd": 18500.00},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "quantity": 300, "unit_of_measure": "bag", "unit_cost_usd": 52.00, "amount_usd": 15600.00},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "quantity": 400, "unit_of_measure": "bag", "unit_cost_usd": 28.50, "amount_usd": 11400.00}
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "quantity": 100,
+          "unit_of_measure": "drum",
+          "unit_cost_usd": 185.0,
+          "amount_usd": 18500.0
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "quantity": 300,
+          "unit_of_measure": "bag",
+          "unit_cost_usd": 52.0,
+          "amount_usd": 15600.0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "quantity": 400,
+          "unit_of_measure": "bag",
+          "unit_cost_usd": 28.5,
+          "amount_usd": 11400.0
+        }
       ],
-      "total_usd": 45500.00,
+      "total_usd": 45500.0,
       "currency": "USD",
       "notes": "All items received and invoiced. PO closed 2026-07-22."
     }
   ],
-
   "vendors": [
     {
       "id": "V-001",
-      "name": "Lanxess Deutschland GmbH",
+      "name": "ChemTech GmbH Deutschland GmbH",
       "vendor_type": "manufacturer",
       "status": "active",
       "contact_name": "Klaus Brandt",
       "email": "k.brandt@lanxess.com",
       "phone": "+49-221-8885-0",
       "payment_terms": "Net60",
-      "outstanding_balance_usd": 17350.00,
-      "ytd_purchases_usd": 98400.00,
+      "outstanding_balance_usd": 17350.0,
+      "ytd_purchases_usd": 98400.0,
       "country": "Germany",
       "currency": "EUR"
     },
     {
       "id": "V-002",
-      "name": "Flexsys America L.P.",
+      "name": "FlexChem America L.P.",
       "vendor_type": "manufacturer",
       "status": "active",
       "contact_name": "Gary Hutchins",
       "email": "ghutchins@flexsys.com",
       "phone": "724-773-5100",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 6200.00,
-      "ytd_purchases_usd": 156700.00,
+      "outstanding_balance_usd": 6200.0,
+      "ytd_purchases_usd": 156700.0,
       "country": "United States",
       "currency": "USD"
     },
     {
       "id": "V-003",
-      "name": "R.T. Vanderbilt Holding Company",
+      "name": "Sterling Chemical Holding Company",
       "vendor_type": "manufacturer",
       "status": "active",
       "contact_name": "Patricia Lombardo",
       "email": "p.lombardo@rtvanderbilt.com",
       "phone": "203-853-1400",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 13790.00,
-      "ytd_purchases_usd": 87200.00,
+      "outstanding_balance_usd": 13790.0,
+      "ytd_purchases_usd": 87200.0,
       "country": "United States",
       "currency": "USD"
     },
     {
       "id": "V-004",
-      "name": "ICL Group Ltd.",
+      "name": "GlobalChem Group Ltd.",
       "vendor_type": "manufacturer",
       "status": "active",
       "contact_name": "Oren Shapiro",
       "email": "o.shapiro@icl-group.com",
       "phone": "+972-3-684-4400",
       "payment_terms": "Net45",
-      "outstanding_balance_usd": 7560.00,
-      "ytd_purchases_usd": 42300.00,
+      "outstanding_balance_usd": 7560.0,
+      "ytd_purchases_usd": 42300.0,
       "country": "Israel",
       "currency": "USD"
     },
     {
       "id": "V-005",
-      "name": "Cabot Corporation",
+      "name": "CarbonTech Corp",
       "vendor_type": "manufacturer",
       "status": "active",
       "contact_name": "David Wren",
       "email": "david.wren@cabot-corp.com",
       "phone": "617-345-0100",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 0.00,
-      "ytd_purchases_usd": 312000.00,
+      "outstanding_balance_usd": 0.0,
+      "ytd_purchases_usd": 312000.0,
       "country": "United States",
       "currency": "USD"
     },
     {
       "id": "V-006",
-      "name": "Univar Solutions Inc.",
+      "name": "ChemDist Solutions Inc.",
       "vendor_type": "distributor",
       "status": "active",
       "contact_name": "Tonya Bergman",
       "email": "t.bergman@univarsolutions.com",
       "phone": "425-889-3400",
       "payment_terms": "Net30",
-      "outstanding_balance_usd": 0.00,
-      "ytd_purchases_usd": 134800.00,
+      "outstanding_balance_usd": 0.0,
+      "ytd_purchases_usd": 134800.0,
       "country": "United States",
       "currency": "USD"
     }
   ],
-
   "item_receipts": [
     {
       "id": "REC-4001",
       "receipt_number": "REC-4001",
       "purchase_order_id": "PO-3002",
-      "vendor_name": "Flexsys America L.P.",
+      "vendor_name": "FlexChem America L.P.",
       "status": "partial",
       "received_date": "2026-08-15",
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "qty_ordered": 500, "qty_received": 250, "unit_of_measure": "kg", "lot_number": "FLEX-TMTD-2026-08A"},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "qty_ordered": 3000, "qty_received": 3000, "unit_of_measure": "kg", "lot_number": "FLEX-6PPD-2026-07A"}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "qty_ordered": 500,
+          "qty_received": 250,
+          "unit_of_measure": "kg",
+          "lot_number": "FLEX-TMTD-2026-08A"
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "qty_ordered": 3000,
+          "qty_received": 3000,
+          "unit_of_measure": "kg",
+          "lot_number": "FLEX-6PPD-2026-07A"
+        }
       ],
       "warehouse_location": "Chicago IL Warehouse",
       "notes": "6PPD received complete. TMTD short-shipped — supplier backorder, balance expected 2026-08-28."
@@ -1475,11 +1972,18 @@
       "id": "REC-4002",
       "receipt_number": "REC-4002",
       "purchase_order_id": "PO-3002",
-      "vendor_name": "Flexsys America L.P.",
+      "vendor_name": "FlexChem America L.P.",
       "status": "received",
       "received_date": "2026-08-28",
       "line_items": [
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "qty_ordered": 250, "qty_received": 250, "unit_of_measure": "kg", "lot_number": "FLEX-TMTD-2026-08B"}
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "qty_ordered": 250,
+          "qty_received": 250,
+          "unit_of_measure": "kg",
+          "lot_number": "FLEX-TMTD-2026-08B"
+        }
       ],
       "warehouse_location": "Chicago IL Warehouse",
       "notes": "Balance of TMTD from PO-3002. PO now fully received."
@@ -1488,11 +1992,18 @@
       "id": "REC-4003",
       "receipt_number": "REC-4003",
       "purchase_order_id": "PO-3004",
-      "vendor_name": "Cabot Corporation",
+      "vendor_name": "CarbonTech Corp",
       "status": "received",
       "received_date": "2026-08-04",
       "line_items": [
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "qty_ordered": 2400, "qty_received": 2400, "unit_of_measure": "bag", "lot_number": "CABOT-N330-2026-07A"}
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "qty_ordered": 2400,
+          "qty_received": 2400,
+          "unit_of_measure": "bag",
+          "lot_number": "CABOT-N330-2026-07A"
+        }
       ],
       "warehouse_location": "Chicago IL Warehouse",
       "notes": "Chicago allocation of PO-3004. Full truckload received."
@@ -1501,11 +2012,18 @@
       "id": "REC-4004",
       "receipt_number": "REC-4004",
       "purchase_order_id": "PO-3004",
-      "vendor_name": "Cabot Corporation",
+      "vendor_name": "CarbonTech Corp",
       "status": "received",
       "received_date": "2026-08-05",
       "line_items": [
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "qty_ordered": 1600, "qty_received": 1600, "unit_of_measure": "bag", "lot_number": "CABOT-N330-2026-07B"}
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "qty_ordered": 1600,
+          "qty_received": 1600,
+          "unit_of_measure": "bag",
+          "lot_number": "CABOT-N330-2026-07B"
+        }
       ],
       "warehouse_location": "Houston TX Warehouse",
       "notes": "Houston allocation of PO-3004. Received one day after Chicago shipment."
@@ -1514,13 +2032,34 @@
       "id": "REC-4005",
       "receipt_number": "REC-4005",
       "purchase_order_id": "PO-3006",
-      "vendor_name": "Univar Solutions Inc.",
+      "vendor_name": "ChemDist Solutions Inc.",
       "status": "received",
       "received_date": "2026-07-17",
       "line_items": [
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "qty_ordered": 100, "qty_received": 100, "unit_of_measure": "drum", "lot_number": "UNIVAR-NOIL-2026-07A"},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "qty_ordered": 300, "qty_received": 300, "unit_of_measure": "bag", "lot_number": "UNIVAR-ZNOX-2026-07A"},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "qty_ordered": 400, "qty_received": 400, "unit_of_measure": "bag", "lot_number": "UNIVAR-STAC-2026-07A"}
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "qty_ordered": 100,
+          "qty_received": 100,
+          "unit_of_measure": "drum",
+          "lot_number": "UNIVAR-NOIL-2026-07A"
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "qty_ordered": 300,
+          "qty_received": 300,
+          "unit_of_measure": "bag",
+          "lot_number": "UNIVAR-ZNOX-2026-07A"
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "qty_ordered": 400,
+          "qty_received": 400,
+          "unit_of_measure": "bag",
+          "lot_number": "UNIVAR-STAC-2026-07A"
+        }
       ],
       "warehouse_location": "Houston TX Warehouse",
       "notes": "All items received on time. QC inspection passed. PO closed."
@@ -1529,17 +2068,23 @@
       "id": "REC-4006",
       "receipt_number": "REC-4006",
       "purchase_order_id": "PO-3005",
-      "vendor_name": "ICL Group Ltd.",
+      "vendor_name": "GlobalChem Group Ltd.",
       "status": "pending_inspection",
       "received_date": "2026-08-24",
       "line_items": [
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "qty_ordered": 400, "qty_received": 400, "unit_of_measure": "kg", "lot_number": "ICL-OBSH-2026-08A"}
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "qty_ordered": 400,
+          "qty_received": 400,
+          "unit_of_measure": "kg",
+          "lot_number": "ICL-OBSH-2026-08A"
+        }
       ],
       "warehouse_location": "Chicago IL Warehouse",
       "notes": "HAZMAT goods received. Awaiting QC certificate and SDS verification before stock release. Hold in quarantine area."
     }
   ],
-
   "price_lists": [
     {
       "id": "PL-001",
@@ -1548,18 +2093,78 @@
       "customer_tier": "standard",
       "effective_date": "2026-01-01",
       "items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "unit_price_usd": 8.20, "discount_pct": 0},
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "unit_price_usd": 8.75, "discount_pct": 0},
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "unit_price_usd": 10.50, "discount_pct": 0},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "unit_price_usd": 12.60, "discount_pct": 0},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "unit_price_usd": 6.20, "discount_pct": 0},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "unit_price_usd": 295.00, "discount_pct": 0},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "unit_price_usd": 88.00, "discount_pct": 0},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "unit_price_usd": 48.00, "discount_pct": 0},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "unit_price_usd": 62.00, "discount_pct": 0},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "unit_price_usd": 24.50, "discount_pct": 0},
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "unit_price_usd": 32.00, "discount_pct": 0},
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "unit_price_usd": 5.40, "discount_pct": 0}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "unit_price_usd": 8.2,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "unit_price_usd": 8.75,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "unit_price_usd": 10.5,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "unit_price_usd": 12.6,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "unit_price_usd": 6.2,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "unit_price_usd": 295.0,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "unit_price_usd": 88.0,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "unit_price_usd": 48.0,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "unit_price_usd": 62.0,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "unit_price_usd": 24.5,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "unit_price_usd": 32.0,
+          "discount_pct": 0
+        },
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "unit_price_usd": 5.4,
+          "discount_pct": 0
+        }
       ]
     },
     {
@@ -1569,18 +2174,78 @@
       "customer_tier": "preferred",
       "effective_date": "2026-01-01",
       "items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "unit_price_usd": 7.54, "discount_pct": 8},
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "unit_price_usd": 8.05, "discount_pct": 8},
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "unit_price_usd": 9.45, "discount_pct": 10},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "unit_price_usd": 11.34, "discount_pct": 10},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "unit_price_usd": 5.70, "discount_pct": 8},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "unit_price_usd": 265.50, "discount_pct": 10},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "unit_price_usd": 80.96, "discount_pct": 8},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "unit_price_usd": 44.16, "discount_pct": 8},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "unit_price_usd": 55.80, "discount_pct": 10},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "unit_price_usd": 21.56, "discount_pct": 12},
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "unit_price_usd": 28.80, "discount_pct": 10},
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "unit_price_usd": 4.75, "discount_pct": 12}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "unit_price_usd": 7.54,
+          "discount_pct": 8
+        },
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "unit_price_usd": 8.05,
+          "discount_pct": 8
+        },
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "unit_price_usd": 9.45,
+          "discount_pct": 10
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "unit_price_usd": 11.34,
+          "discount_pct": 10
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "unit_price_usd": 5.7,
+          "discount_pct": 8
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "unit_price_usd": 265.5,
+          "discount_pct": 10
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "unit_price_usd": 80.96,
+          "discount_pct": 8
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "unit_price_usd": 44.16,
+          "discount_pct": 8
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "unit_price_usd": 55.8,
+          "discount_pct": 10
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "unit_price_usd": 21.56,
+          "discount_pct": 12
+        },
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "unit_price_usd": 28.8,
+          "discount_pct": 10
+        },
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "unit_price_usd": 4.75,
+          "discount_pct": 12
+        }
       ]
     },
     {
@@ -1590,22 +2255,81 @@
       "customer_tier": "contract",
       "effective_date": "2026-01-01",
       "items": [
-        {"product_id": "P-001", "product_name": "CBS Accelerator", "unit_price_usd": 6.97, "discount_pct": 15},
-        {"product_id": "P-002", "product_name": "MBTS Accelerator", "unit_price_usd": 7.44, "discount_pct": 15},
-        {"product_id": "P-003", "product_name": "TMTD Accelerator", "unit_price_usd": 8.82, "discount_pct": 16},
-        {"product_id": "P-004", "product_name": "6PPD Antioxidant", "unit_price_usd": 10.50, "discount_pct": 17},
-        {"product_id": "P-005", "product_name": "TMQ Antioxidant", "unit_price_usd": 5.27, "discount_pct": 15},
-        {"product_id": "P-006", "product_name": "Naphthenic Process Oil", "unit_price_usd": 247.80, "discount_pct": 16},
-        {"product_id": "P-007", "product_name": "Zinc Oxide USP Grade", "unit_price_usd": 74.80, "discount_pct": 15},
-        {"product_id": "P-008", "product_name": "Stearic Acid (Rubber Grade)", "unit_price_usd": 40.80, "discount_pct": 15},
-        {"product_id": "P-009", "product_name": "Carbon Black N330 (HAF Grade)", "unit_price_usd": 51.16, "discount_pct": 17},
-        {"product_id": "P-010", "product_name": "PVI Peptizer", "unit_price_usd": 20.58, "discount_pct": 16},
-        {"product_id": "P-011", "product_name": "OBSH Blowing Agent", "unit_price_usd": 26.88, "discount_pct": 16},
-        {"product_id": "P-012", "product_name": "EPDM Polymer (Vistalon 7001)", "unit_price_usd": 4.43, "discount_pct": 18}
+        {
+          "product_id": "P-001",
+          "product_name": "CBS Accelerator",
+          "unit_price_usd": 6.97,
+          "discount_pct": 15
+        },
+        {
+          "product_id": "P-002",
+          "product_name": "MBTS Accelerator",
+          "unit_price_usd": 7.44,
+          "discount_pct": 15
+        },
+        {
+          "product_id": "P-003",
+          "product_name": "TMTD Accelerator",
+          "unit_price_usd": 8.82,
+          "discount_pct": 16
+        },
+        {
+          "product_id": "P-004",
+          "product_name": "6PPD Antioxidant",
+          "unit_price_usd": 10.5,
+          "discount_pct": 17
+        },
+        {
+          "product_id": "P-005",
+          "product_name": "TMQ Antioxidant",
+          "unit_price_usd": 5.27,
+          "discount_pct": 15
+        },
+        {
+          "product_id": "P-006",
+          "product_name": "Naphthenic Process Oil",
+          "unit_price_usd": 247.8,
+          "discount_pct": 16
+        },
+        {
+          "product_id": "P-007",
+          "product_name": "Zinc Oxide USP Grade",
+          "unit_price_usd": 74.8,
+          "discount_pct": 15
+        },
+        {
+          "product_id": "P-008",
+          "product_name": "Stearic Acid (Rubber Grade)",
+          "unit_price_usd": 40.8,
+          "discount_pct": 15
+        },
+        {
+          "product_id": "P-009",
+          "product_name": "Carbon Black N330 (HAF Grade)",
+          "unit_price_usd": 51.16,
+          "discount_pct": 17
+        },
+        {
+          "product_id": "P-010",
+          "product_name": "PVI Peptizer",
+          "unit_price_usd": 20.58,
+          "discount_pct": 16
+        },
+        {
+          "product_id": "P-011",
+          "product_name": "OBSH Blowing Agent",
+          "unit_price_usd": 26.88,
+          "discount_pct": 16
+        },
+        {
+          "product_id": "P-012",
+          "product_name": "EPDM Polymer (Vistalon 7001)",
+          "unit_price_usd": 4.43,
+          "discount_pct": 18
+        }
       ]
     }
   ],
-
   "transactions": [
     {
       "id": "TXN-5001",
@@ -1613,10 +2337,10 @@
       "date": "2026-07-22",
       "account": "Accounts Receivable",
       "description": "INV-2001 — Bridgestone Americas Tire Operations — SO-1001",
-      "debit_usd": 58720.00,
-      "credit_usd": 0.00,
+      "debit_usd": 58720.0,
+      "credit_usd": 0.0,
       "reference": "INV-2001",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5002",
@@ -1624,10 +2348,10 @@
       "date": "2026-08-18",
       "account": "Cash and Cash Equivalents",
       "description": "Payment received — Bridgestone Americas — INV-2001 — ACH BSACH-08182026",
-      "debit_usd": 58720.00,
-      "credit_usd": 0.00,
+      "debit_usd": 58720.0,
+      "credit_usd": 0.0,
       "reference": "INV-2001",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5003",
@@ -1635,10 +2359,10 @@
       "date": "2026-08-04",
       "account": "Accounts Receivable",
       "description": "INV-2004 — Zeon Chemicals L.P. — SO-1005 — HAZMAT shipment",
-      "debit_usd": 9890.00,
-      "credit_usd": 0.00,
+      "debit_usd": 9890.0,
+      "credit_usd": 0.0,
       "reference": "INV-2004",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5004",
@@ -1646,10 +2370,10 @@
       "date": "2026-08-20",
       "account": "Cash and Cash Equivalents",
       "description": "Partial payment — Zeon Chemicals L.P. — INV-2004 — Check #ZC4421",
-      "debit_usd": 5000.00,
-      "credit_usd": 0.00,
+      "debit_usd": 5000.0,
+      "credit_usd": 0.0,
       "reference": "INV-2004",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5005",
@@ -1657,10 +2381,10 @@
       "date": "2026-07-17",
       "account": "Accounts Receivable",
       "description": "INV-2005 — Freudenberg Performance Materials — SO-1012 — OVERDUE",
-      "debit_usd": 30370.00,
-      "credit_usd": 0.00,
+      "debit_usd": 30370.0,
+      "credit_usd": 0.0,
       "reference": "INV-2005",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5006",
@@ -1668,21 +2392,21 @@
       "date": "2026-08-15",
       "account": "Allowance for Doubtful Accounts",
       "description": "Reserve provision — INV-2005 Freudenberg overdue 45+ days — precautionary reserve",
-      "debit_usd": 0.00,
-      "credit_usd": 3037.00,
+      "debit_usd": 0.0,
+      "credit_usd": 3037.0,
       "reference": "INV-2005",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5007",
       "transaction_type": "debit_memo",
       "date": "2026-08-11",
       "account": "Accounts Payable",
-      "description": "PO-3004 — Cabot Corporation — Carbon Black N330 4000 bags — received and approved",
-      "debit_usd": 0.00,
-      "credit_usd": 152000.00,
+      "description": "PO-3004 — CarbonTech Corp — Carbon Black N330 4000 bags — received and approved",
+      "debit_usd": 0.0,
+      "credit_usd": 152000.0,
       "reference": "PO-3004",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     },
     {
       "id": "TXN-5008",
@@ -1690,10 +2414,10 @@
       "date": "2026-08-22",
       "account": "Accounts Receivable",
       "description": "Credit memo — freight overcharge correction SO-1001 — Bridgestone Americas",
-      "debit_usd": 0.00,
-      "credit_usd": 120.00,
+      "debit_usd": 0.0,
+      "credit_usd": 120.0,
       "reference": "INV-2001",
-      "subsidiary": "RD Abbott LLC"
+      "subsidiary": "Nexus Chemicals LLC"
     }
   ]
 }
